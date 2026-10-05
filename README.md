@@ -31,6 +31,13 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka)
 
 ### 🔌 Embedded & Hardware
 ![UART](https://img.shields.io/badge/-UART-blue?style=flat-square)
@@ -50,6 +57,16 @@
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira)
 ![Mermaid.js](https://img.shields.io/badge/-Mermaid.js-1ABC9C?style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+
+---
+
+## 🔭 Now Building
+
+### [Portfolio3D](https://github.com/kyungsikjeung/profile) — 사진을 3D 포트폴리오로 바꾸는 플랫폼
+
+> Next.js 16 + React Three Fiber + GSAP 어워드급 랜딩 · FastAPI + PostgreSQL + Redis + Kafka 로컬 풀스택
+- 📸 사진 업로드 → AI 3D 변환 → 템플릿 → 공유 URL까지 한 번에
+- 🌀 스크롤-궤도 크리에이터 쇼케이스, Before→After 드래그 리빌
 
 ---
 
